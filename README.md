@@ -106,17 +106,15 @@ plt.show()
 ```
 
 ## Output:
-# PREVIEW OF THE DATASET:
+### PREVIEW OF THE DATASET:
 
 <img width="700" height="632" alt="image" src="https://github.com/user-attachments/assets/22e0c8da-41b8-4bc1-9b94-da2ef0274632" />
 
-# EXTRACTION OF BEST MODEL:
+### EXTRACTION OF BEST MODEL:
 
 <img width="653" height="42" alt="image" src="https://github.com/user-attachments/assets/8912a0e6-ca0a-44d7-aef6-37f6bf4dfebf" />
 
-# EVALUATION OF THE MODEL:
-# AND
-# CONFUSION MATRIX:
+### EVALUATION OF THE MODEL AND CONFUSION MATRIX:
 
 <img width="703" height="755" alt="image" src="https://github.com/user-attachments/assets/1b9ec344-5ed2-4cea-a994-a21fed25e06b" />
 
